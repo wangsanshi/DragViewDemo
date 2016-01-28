@@ -1,5 +1,5 @@
 用ViewDragHelper实现侧滑
 
-![Image](Resource/one.jpg)
+![](https://github.com/wangsanshi/Resource/one.jpg)
 
-![Image](Resource/two.jpg)
+![](https://github.com/wangsanshi/Resource/two.jpg)
