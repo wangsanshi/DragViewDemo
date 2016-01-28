@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">DragViewDemo</string>
+    <string name="menu">Menu</string>
+    <string name="main">Main</string>
+
+</resources>
